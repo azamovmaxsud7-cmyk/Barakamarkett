@@ -1,0 +1,6 @@
+{
+  "name": "Baraka Supermarket - Oziq-ovqat va Maxsulotlar",
+  "description": "Keng assortimentdagi oziq-ovqat mahsulotlari, go'sht, sut, meva-sabzavot, ichimliklar va qandolatchilik do'koni. Tez yetkazib berish va qulay buyurtma berish.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
